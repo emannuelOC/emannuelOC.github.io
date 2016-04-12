@@ -1,0 +1,32 @@
+html {
+	background-color: #999;
+}
+
+body {
+	margin: 0px auto;
+	max-width: 1000px;
+	background-color: #eee;
+}
+
+a {
+	vertical-align: middle;
+	background-color: #fee;
+}
+
+.menuItem {
+	width:  200px;
+	height: 200px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px;
+	background-color: #e7e7e7;
+}
+
+#banner {
+	height: 300px;
+}
+
+#menu {
+	text-align: center;
+	height: 400px;
+}
