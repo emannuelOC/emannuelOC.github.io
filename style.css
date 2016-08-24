@@ -24,8 +24,13 @@ a:hover {
 	margin-top: 10px;
 }
 
+#menu_selected {
+	color: #777;
+}
+
 #banner {
 	margin: 50px auto;
+	text-align: center;
 }
 
 #menu {
@@ -39,6 +44,24 @@ a:hover {
 	height: 400px;
 }
 
+.article_separator {
+	text-align: center;
+}
+
+.blog_post {
+	margin: 50px auto;
+	font-size: 20px;
+}
+
+.blog_post:hover {
+	color: #777;
+}
+
+.blog_post_title {
+	font-size: 30px;
+}
+
 footer {
 	text-align: center;
+	bottom: 10px;
 }
