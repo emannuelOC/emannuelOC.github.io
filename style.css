@@ -44,6 +44,10 @@ a:hover {
 	height: 400px;
 }
 
+#social_links {
+	display: inline-block;
+}
+
 .article_separator {
 	text-align: center;
 }
