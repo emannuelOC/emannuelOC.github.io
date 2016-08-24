@@ -1,28 +1,17 @@
-Meu primeiro artigo
+Soon a very nice article
 ***COMPONENTS_SEPARATOR***
-sadfkjh sdfkjhsd fksjdfh asdfkjhsdf
-sadkfjhsf ksdjfh sadkfjhsad fkjsafd
-sadkjfhsa dfaskjdfh asdfkjashdf 
-asdkfjh asdfkajsdhf kasdjfhaskdjfh
+Thank you for stopping by.. I don't 
+have a lot of content yet, but soon it
+will be legend... <i>wait for it...</i>
 ***COMPONENTS_SEPARATOR***
-www.google.com
+#
 
 ***ARTICLES_SEPARATOR***
-Meu primeiro artigo
+Dary!
 ***COMPONENTS_SEPARATOR***
-sadfkjh sdfkjhsd fksjdfh asdfkjhsdf
-sadkfjhsf ksdjfh sadkfjhsad fkjsafd
-sadkjfhsa dfaskjdfh asdfkjashdf 
-asdkfjh asdfkajsdhf kasdjfhaskdjfh
+Until then, I'm just testing some things
+and trying to put all my [irony]<b>amazing</b>[/irony]
+skills with html, css and javaScript into practice.
+=D
 ***COMPONENTS_SEPARATOR***
-www.google.com
-
-***ARTICLES_SEPARATOR***
-Meu primeiro artigo
-***COMPONENTS_SEPARATOR***
-sadfkjh sdfkjhsd fksjdfh asdfkjhsdf
-sadkfjhsf ksdjfh sadkfjhsad fkjsafd
-sadkjfhsa dfaskjdfh asdfkjashdf 
-asdkfjh asdfkajsdhf kasdjfhaskdjfh
-***COMPONENTS_SEPARATOR***
-www.google.com
+#
