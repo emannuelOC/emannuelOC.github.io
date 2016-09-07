@@ -17,6 +17,10 @@ a:hover {
 	font-weight: bold;
 }
 
+.inline_link {
+	text-decoration: underline;
+}
+
 .menuItem {
 	display: inline-block;
 	margin-left: 10px;
