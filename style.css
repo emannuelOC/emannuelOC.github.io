@@ -48,6 +48,13 @@ a:hover {
 	height: 400px;
 }
 
+.bible_citation {
+	padding: 30px;
+	font-weight: 100;
+	font-size: 20px;
+	color: #777;
+}
+
 #social_links {
 	display: inline-block;
 }

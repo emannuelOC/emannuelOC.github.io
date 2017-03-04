@@ -1,3 +1,15 @@
+Filipenses 1.1-11
+***COMPONENTS_SEPARATOR***
+Essa semana a Lê e eu decidimos 
+estudar a carta de Paulo aos Filipenses 
+juntos. E pra deixar esses estudos 
+registrados de alguma forma, eu vou
+compartilhar algumas
+coisas aqui. 
+***COMPONENTS_SEPARATOR***
+filipenses_4mar.html
+#
+
 Testes Unitários + Clean Swift
 ***COMPONENTS_SEPARATOR***
 O Rodrigo Soldi e eu criamos um 
