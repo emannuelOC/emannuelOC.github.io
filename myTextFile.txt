@@ -10,6 +10,7 @@ coisas aqui.
 filipenses_4mar.html
 #
 
+***ARTICLES_SEPARATOR***
 Testes Unitários + Clean Swift
 ***COMPONENTS_SEPARATOR***
 O Rodrigo Soldi e eu criamos um 
@@ -18,6 +19,7 @@ unitários na arquitetura Clean Swift.
 Dá uma olhada =D
 ***COMPONENTS_SEPARATOR***
 testingCleanSwift.html
+#
 
 ***ARTICLES_SEPARATOR***
 Soon a very nice article
