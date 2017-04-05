@@ -1,12 +1,3 @@
-Bombeta FC ⚽️
-***COMPONENTS_SEPARATOR***
-Vem aí um app muito legal pra 
-deixar o seu fut semanal ainda 
-mais emocionante!
-Seja um beta tester!!!
-***COMPONENTS_SEPARATOR***
-bombeta.html
-#
 
 ***ARTICLES_SEPARATOR***
 Filipenses 1.1-11
