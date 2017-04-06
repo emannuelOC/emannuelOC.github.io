@@ -1,0 +1,85 @@
+body {
+	background: #310032;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+#banner {
+	height: 400px;
+	position: relative;
+	background-image: url("images/bombeta/background.jpg");
+	text-align: center;
+	line-height: 400px;
+	font-size: 40pt;
+}
+
+#banner_layer {
+	background-color: rgba(0, 239, 130, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+
+#carroussel {
+	height: 400px;
+	color: #fff;
+	text-align: center;
+	line-height: 400px;
+	font-size: 40pt;
+}
+
+#carroussel_div {
+	font-size: 30pt;
+	width: 300px;
+}
+
+#carroussel_image1 {
+	-webkit-animation-name: appear;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: ease-out;
+
+	/*opacity: 0;*/
+	width: 450px;
+	float: left;
+	display: inline-block;
+}
+
+#carroussel_image2 {
+	-webkit-animation-name: appear;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: ease-out;
+
+	/*opacity: 0;*/
+	width: 450px;
+	float: left;
+	display: inline-block;
+}
+
+#carroussel_image3 {
+	-webkit-animation-name: appear;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: ease-out;
+
+	/*opacity: 0;*/
+	width: 450px;
+	float: left;
+	display: inline-block;
+}
+
+#copyright a {
+	color: #fff;
+}
+
+footer {
+	color: #fff;
+	bottom: 10px;
+	text-align: center;
+}
+
+@keyframes appear {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}
