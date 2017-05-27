@@ -1,3 +1,15 @@
+Testes Unitários e Código Testável em Swift - WTT2017
+***COMPONENTS_SEPARATOR***
+No último WTT (Workshop de Tendências
+em Tecnologia) no Mackenzie - SP, eu 
+falei um pouco sobre testes unitários e
+código testável.
+Os slides estão disponíveis aqui!
+***COMPONENTS_SEPARATOR***
+WTT2017/index.html
+#
+
+***ARTICLES_SEPARATOR***
 OCWaveView
 ***COMPONENTS_SEPARATOR***
 Meu primeiro pod saiu!!! É
