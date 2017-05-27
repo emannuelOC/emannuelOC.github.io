@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Just Testing
+	</title>
+	<script>
+	function readTextFile() {
+		var file = "menu.txt";
+	    var rawFile = new XMLHttpRequest();
+	    rawFile.open("GET", file, false);
+	    rawFile.onreadystatechange = function () {
+	        if(rawFile.readyState === 4) {
+	            if(rawFile.status === 200 || rawFile.status == 0) {
+	                var allText = rawFile.responseText;
+	                // alert(allText);
+	                parseText(allText);
+	            }
+	        }
+	    }
+	    rawFile.send(null);
+	}
+
+	function parseText(text) {
+		var elem = document.getElementById("file list");
+		var newText = "";
+        var components = text.split('\n');
+        for (var i = 0; i < components.length; i++) {
+        	newText += components[i] + "<br>";
+        }
+		elem.innerHTML = newText;
+	}
+</script>
+</head>
+<body>
+<button type="button" onclick="readTextFile()">Try it</button>
+<div id="file list"></div>
+</body>
+</html>
+

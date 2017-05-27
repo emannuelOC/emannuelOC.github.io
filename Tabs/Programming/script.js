@@ -1,5 +1,5 @@
 
-readTextFile('myTextFile.txt');
+readTextFile('Tabs/Programming/Programming.txt');
 createMenu();
 createFooter();
 
@@ -51,7 +51,7 @@ function parseText(text) {
     }
 
     // alert(textHTML);
-    var blogElement = document.getElementById('blog');
+    var blogElement = document.getElementById('main-section');
     blogElement.innerHTML = textHTML;
 }
 
