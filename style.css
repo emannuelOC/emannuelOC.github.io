@@ -79,6 +79,11 @@ a {
 	margin: 5px;
 }
 
+.inline-link {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
 .article_separator {
 	text-align: center;
 }

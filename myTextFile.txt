@@ -1,3 +1,17 @@
+OCWaveView
+***COMPONENTS_SEPARATOR***
+Meu primeiro pod saiu!!! É
+um componente de feedback
+visual para entrada de áudio.
+Já tem tempo que eu trabalho em 
+apps que usam reconhecimento de
+voz. Dessa vez eu resolvi fazer 
+as coisas um pouquinho mais certo.
+***COMPONENTS_SEPARATOR***
+ocwaveview.html
+#
+
+***ARTICLES_SEPARATOR***
 Filipenses 1.1-11
 ***COMPONENTS_SEPARATOR***
 Essa semana a Lê e eu decidimos 

@@ -1,3 +1,17 @@
+OCWaveView
+***COMPONENTS_SEPARATOR***
+Meu primeiro pod saiu!!! É
+um componente de feedback
+visual para entrada de áudio.
+Já tem tempo que eu trabalho em 
+apps que usam reconhecimento de
+voz. Dessa vez eu resolvi fazer 
+as coisas um pouquinho mais certo.
+***COMPONENTS_SEPARATOR***
+ocwaveview.html
+#
+
+***ARTICLES_SEPARATOR***
 Testes Unitários + Clean Swift
 ***COMPONENTS_SEPARATOR***
 O Rodrigo Soldi e eu criamos um 
@@ -7,3 +21,4 @@ Dá uma olhada =D
 ***COMPONENTS_SEPARATOR***
 testingCleanSwift.html
 #
+
