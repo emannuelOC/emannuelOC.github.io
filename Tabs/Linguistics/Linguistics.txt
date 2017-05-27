@@ -1,0 +1,10 @@
+Representações Lexicais para Deep Learning
+***COMPONENTS_SEPARATOR***
+Estou estudando diferentes representações
+lexicais para tarefas de Deep Learning - 
+especialmente word2vec e GloVe - e resolvi 
+escrever aqui um pouco sobre isso. Se achar
+interessante, dá uma olhada!
+***COMPONENTS_SEPARATOR***
+wordembeddings.html
+#
