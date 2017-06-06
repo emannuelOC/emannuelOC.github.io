@@ -1,0 +1,5 @@
+# Core ML
+
+At the WWDC 2017, Apple introduced a new Machine Learning framework, *Core ML*. 
+It allows you to add pre-trained models to your app and run machine learning in the device.
+This post is a very simple introduction to Core ML,  
