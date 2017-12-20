@@ -28296,7 +28296,8 @@ cr.getObjectRefTable = function () {
 		cr.system_object.prototype.acts.SetVar,
 		cr.system_object.prototype.acts.RestartLayout,
 		cr.plugins_.Sprite.prototype.cnds.OnCollision,
-		cr.plugins_.Sprite.prototype.acts.Destroy,
+		cr.plugins_.Sprite.prototype.acts.SetAnim,
+		cr.behaviors.Bullet.prototype.acts.SetEnabled,
 		cr.system_object.prototype.acts.AddVar,
 		cr.plugins_.Text.prototype.acts.SetText,
 		cr.system_object.prototype.cnds.Every,
@@ -28304,7 +28305,7 @@ cr.getObjectRefTable = function () {
 		cr.system_object.prototype.exps.random,
 		cr.system_object.prototype.exps.layoutwidth,
 		cr.plugins_.Sprite.prototype.cnds.CompareInstanceVar,
-		cr.plugins_.Sprite.prototype.acts.SetAnim,
+		cr.plugins_.Sprite.prototype.acts.Destroy,
 		cr.plugins_.Sprite.prototype.acts.Spawn,
 		cr.plugins_.Text.prototype.acts.SetVisible,
 		cr.behaviors.Flash.prototype.cnds.IsFlashing,
@@ -28320,7 +28321,8 @@ cr.getObjectRefTable = function () {
 		cr.behaviors.Platform.prototype.cnds.IsMoving,
 		cr.behaviors.Platform.prototype.cnds.IsJumping,
 		cr.plugins_.Keyboard.prototype.cnds.OnKey,
-		cr.plugins_.Touch.prototype.cnds.OnTouchStart
+		cr.plugins_.Touch.prototype.cnds.OnTouchStart,
+		cr.plugins_.Sprite.prototype.cnds.OnAnimFinished
 	];
 };
 
