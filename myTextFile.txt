@@ -1,3 +1,51 @@
+Machine Learning and iOS: 
+from Accelerate to Turi Create
+***COMPONENTS_SEPARATOR***
+Em 2017 muitas aconteceram na interseção 
+entre iOS e Machine Learning. Nesse artigo
+eu falo um pouco sobre como usar um modelo 
+em um app de diversas maneiras, desde as
+ferramentas mais antigas, como o Accelerate,
+até as mais recentes, como o Turi Create.
+***COMPONENTS_SEPARATOR***
+https://medium.com/@emannuelcarvalho/machine-learning-and-ios-43691de403bd
+#
+
+Hello, (Machine Learning) World!
+***COMPONENTS_SEPARATOR***
+Quer aprender Machine Learning mas 
+não sabe por onde começar? Nesse tutorial
+tem um passo-a-passo pro "Hello, World!" 
+das redes neurais: reconhecimento de dígitos
+com os dados do MNIST. (8/janeiro/2018)
+***COMPONENTS_SEPARATOR***
+https://medium.com/cocoaacademymag/hello-machine-learning-world-28ed7167dee6
+#
+
+Basic tools for Machine Learning
+***COMPONENTS_SEPARATOR***
+Após o lançamento do Core ML no WWDC, 
+muitos desenvolvedores iOS começaram a
+se interessar mais por Machine Learning.
+Nesse artigo, eu descrevo como instalar
+algumas das ferramentas básicas pra 
+entrar nesse mundo. (4/outubro/2017)
+***COMPONENTS_SEPARATOR***
+https://medium.com/cocoaacademymag/basic-tools-for-machine-learning-85e887224ee4
+#
+
+Welcoming Core ML
+***COMPONENTS_SEPARATOR***
+No WWDC17, a Apple anunciou o Core ML, um 
+framework para utilizar Machine Learning
+nos apps iOS. O Aleph e eu ficamos muito 
+animados com a novidade e escrevemos um 
+artigo com um projetinho de exemplo. Dá uma
+olhada! (7/junho/2017)
+***COMPONENTS_SEPARATOR***
+https://towardsdatascience.com/welcoming-core-ml-8ba325227a28
+#
+
 Testes Unitários e Código Testável em Swift - WTT2017
 ***COMPONENTS_SEPARATOR***
 No último WTT (Workshop de Tendências
@@ -45,23 +93,4 @@ unitários na arquitetura Clean Swift.
 Dá uma olhada =D
 ***COMPONENTS_SEPARATOR***
 testingCleanSwift.html
-#
-
-***ARTICLES_SEPARATOR***
-Soon a very nice article
-***COMPONENTS_SEPARATOR***
-Thank you for stopping by.. I don't 
-have a lot of content yet, but soon it
-will be legend... <i>wait for it...</i>
-***COMPONENTS_SEPARATOR***
-#
-
-***ARTICLES_SEPARATOR***
-Dary!
-***COMPONENTS_SEPARATOR***
-Until then, I'm just testing some things
-and trying to put all my [irony]<b>amazing</b>[/irony]
-skills with html, css and javaScript into practice.
-=D
-***COMPONENTS_SEPARATOR***
 #
