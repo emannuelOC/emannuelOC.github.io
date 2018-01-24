@@ -11,6 +11,7 @@ até as mais recentes, como o Turi Create.
 https://medium.com/@emannuelcarvalho/machine-learning-and-ios-43691de403bd
 #
 
+***ARTICLES_SEPARATOR***
 Hello, (Machine Learning) World!
 ***COMPONENTS_SEPARATOR***
 Quer aprender Machine Learning mas 
@@ -22,6 +23,7 @@ com os dados do MNIST. (8/janeiro/2018)
 https://medium.com/cocoaacademymag/hello-machine-learning-world-28ed7167dee6
 #
 
+***ARTICLES_SEPARATOR***
 Basic tools for Machine Learning
 ***COMPONENTS_SEPARATOR***
 Após o lançamento do Core ML no WWDC, 
@@ -34,6 +36,7 @@ entrar nesse mundo. (4/outubro/2017)
 https://medium.com/cocoaacademymag/basic-tools-for-machine-learning-85e887224ee4
 #
 
+***ARTICLES_SEPARATOR***
 Welcoming Core ML
 ***COMPONENTS_SEPARATOR***
 No WWDC17, a Apple anunciou o Core ML, um 
@@ -46,6 +49,7 @@ olhada! (7/junho/2017)
 https://towardsdatascience.com/welcoming-core-ml-8ba325227a28
 #
 
+***ARTICLES_SEPARATOR***
 Testes Unitários e Código Testável em Swift - WTT2017
 ***COMPONENTS_SEPARATOR***
 No último WTT (Workshop de Tendências
