@@ -15,14 +15,14 @@ body {
 	margin: 0px auto;
 	max-width: 1000px;
 	font-family: SFMedium;
-	background-color: #171717;
-	color: #aaa;
+	background-color: #fff;
+	color: #333;
 }
 
 a {
 	vertical-align: middle;
 	text-decoration: none;
-	color: #aaa;
+	color: #333;
 }
 
 .inline_link {
@@ -37,11 +37,11 @@ a {
 }
 
 .menuItem a:hover {
-	color: #53585F;
+	color: #777;
 }
 
 #menu_selected {
-	color: #777;
+	color: #a33;
 }
 
 #banner {
@@ -57,7 +57,7 @@ a {
 #menu {
 	text-align: center;
 	height: 40px;
-	background-color: #2e2e2e;
+	background-color: #e2e2e2;
 }
 
 #about_me {
@@ -89,22 +89,22 @@ a {
 }
 
 .shadow-box {
-	box-shadow: 0px 3px 4px #080808;
+	box-shadow: 0px 3px 4px #aaa;
 }
 
 #blog {
 }
 
 .blog_post {
-	background-color: #2e2e2e;
+	background-color: #f2f2f2;
 	margin: 50px auto;
 	padding: 50px;
 	font-size: 20px;
 }
 
 a .blog_post:hover {
-	color: #fff;
-	background-color: #53585F;
+	color: #000;
+	background-color: #e2e2e2;
 }
 
 .blog_post_title {
