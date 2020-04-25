@@ -1,7 +1,19 @@
 
-readTextFile('myTextFile.txt');
-createMenu();
+// readTextFile('myTextFile.txt');
+// createMenu();
 createFooter();
+
+$('.hamburger').click (function(){
+  $(this).toggleClass('open');
+  $('.mobile-menu').toggleClass('menu-open');
+});
+
+$('a').click (function() {
+    $('.hamburger').toggleClass('open');
+    $('.mobile-menu').toggleClass('menu-open');
+});
+
+
 
 function readTextFile(file) {
     var rawFile = new XMLHttpRequest();
@@ -91,7 +103,7 @@ function parseMenu(text) {
 }
 
 function createFooter() {
-    var elem = document.getElementById("page footer");
+    var elem = document.getElementById("page-footer");
     var newText = "";
     newText += "<div id=\"social_links\">\n";
     newText += "<a href=\"http://www.github.com/emannuelOC\" target=\"_blank\" class=\"fa fa-github fa-2x\"></a>\n";
