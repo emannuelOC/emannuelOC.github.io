@@ -13,7 +13,25 @@ $('a').click (function() {
     $('.mobile-menu').toggleClass('menu-open');
 });
 
+// When the user scrolls the page, execute stickMenu 
+window.onscroll = function() {stickMenu()};
 
+// Get the navbar
+var menu = document.getElementById("menu");
+
+// Get the offset position of the menu
+var sticky = menu.offsetTop;
+
+// Add the sticky class to the menu when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function stickMenu() {
+  if (window.pageYOffset >= sticky) {
+    menu.classList.add("sticky");
+    menu.classList.remove("shadow-box");
+  } else {
+    menu.classList.remove("sticky");
+    menu.classList.add("shadow-box");
+  }
+}
 
 function readTextFile(file) {
     var rawFile = new XMLHttpRequest();
@@ -112,6 +130,6 @@ function createFooter() {
     newText += "<a href=\"http://www.instagram.com/emannuel_oc\" target=\"_blank\" class=\"fa fa-instagram fa-2x\"></a>\n";
     newText += "<a href=\"http://stackoverflow.com/users/2557380/emannuel-carvalho\" target=\"_blank\" class=\"fa fa-stack-overflow fa-2x\"></a>\n";
     newText += "</div>\n";
-    newText += "<p id=\"copyright\">Emannuel Carvalho | 2017</p>\n";
+    newText += "<p id=\"copyright\">Emannuel Carvalho | 2020</p>\n";
     elem.innerHTML = newText;
 }
