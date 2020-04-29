@@ -229,7 +229,14 @@ footer {
 		visibility: visible;
 	}
 
-
+	.shadow-text {
+		color: #EFEFEF;
+		font-family: SFBlack;
+		font-size: 100px;
+		text-align: center;
+		line-height: 60vh;
+		text-shadow: 5px 5px 15px rgb(209,205,199,0.6), -5px -5px 15px rgba(255,255,255, 0.7);
+	}
 
 	.mobile-menu {
 		visibility: visible;
