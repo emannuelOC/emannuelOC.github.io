@@ -1,0 +1,33 @@
+body {
+	font-family: "courier";
+}
+
+#header {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 80px;
+	background: #777;
+}
+
+#title {
+	background: #aaa;
+	float: left;
+}
+
+#menu {
+	background: #aaa;
+	display: inline-block;
+	height: 100%;
+	float: right;
+	vertical-align: middle;
+}
+
+#menu a {
+	background: red;
+}
+
+#menu-div {
+	height: 100%;
+}
